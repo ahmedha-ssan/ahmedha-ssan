@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedha-ssan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedha-ssan" /> </p>
 
-- 🔭 I’m currently working on **Bach-End development**
+- 🔭 I’m currently working on **Back-End development**
 
 - 🌱 I’m currently learning **Flutter and Flask**
 
@@ -25,10 +25,6 @@
   <a href="https://codeforces.com/profile/ahmeds7">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/ahmedz7961">
-    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-
 </div>
 
 ###
