@@ -31,6 +31,11 @@
 
 </div>
 
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="center">
   <code><img height="40" title="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
@@ -60,9 +65,14 @@
   <code><img height="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   
 </div>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedha-ssan&show_icons=true&locale=en&layout=compact" alt="ahmedha-ssan" /></p>
+<h3 align="left">🔥   My Stats :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedha-ssan&show_icons=true&locale=en" alt="ahmedha-ssan" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedha-ssan&" alt="ahmedha-ssan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedha-ssan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahmedha-ssan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedha-ssan&show_icons=true&locale=en&theme=tokyonight" alt="ahmedha-ssan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedha-ssan&theme=tokyonight" alt="ahmedha-ssan" /></p>
