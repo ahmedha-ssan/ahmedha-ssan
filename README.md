@@ -4,13 +4,13 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedha-ssan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedha-ssan" /> </p>
 
-- 🔭 I’m currently working on **Back-End development**
+- 🔭 I’m currently working on **SoftWare Testing**
 
-- 🌱 I’m currently learning **Flutter and Flask**
+- 🌱 I’m currently learning **Spring Boot and QA/QC**
 
 - 🌱 Passion: **Enthusiastic about Software Engineering and adept problem-solving skills**
 
-- 💬 Education **Dedicated Computer Science and Information Systems student**
+- 💬 Education **Senior CS Student @ Cairo University**
 
 - 📫 How to reach me **ahmedhasanis26@gmail.com**
 
